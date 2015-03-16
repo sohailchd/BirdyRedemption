@@ -1,0 +1,6 @@
+L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\VaibhavKabetaContent.contentprojResolveAssemblyReference.cache
+F:\WorkSpace\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\VaibhavKabetaContent.contentprojResolveAssemblyReference.cache
+D:\VS2012Pro\XNA_MONO\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\VaibhavKabetaContent.contentprojResolveAssemblyReference.cache
+C:\Users\BasarSohail\Desktop\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\VaibhavKabetaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Sohail.Choudhary\Desktop\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\VaibhavKabetaContent.contentprojResolveAssemblyReference.cache
+F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\VaibhavKabetaContent.contentprojResolveAssemblyReference.cache

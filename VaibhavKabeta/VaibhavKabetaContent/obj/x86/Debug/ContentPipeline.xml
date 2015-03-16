@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>vaibhavKabeta.png</Source>
+      <Name>vaibhavKabeta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\vaibhavKabeta.xnb</Output>
+      <Time>2014-01-09T21:32:34.4451951+05:30</Time>
+    </Item>
+    <Item>
+      <Source>fuddu.png</Source>
+      <Name>fuddu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu.xnb</Output>
+      <Time>2014-01-10T23:39:47.6139323+05:30</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2014-01-11T18:15:17.4937338+05:30</Time>
+    </Item>
+    <Item>
+      <Source>fires.png</Source>
+      <Name>fires</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fires.xnb</Output>
+      <Time>2014-01-11T18:36:45.3302943+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\</RootDirectory>
+      <LoggerRootDirectory>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\</LoggerRootDirectory>
+      <IntermediateDirectory>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>L:\Win8-Codes\XNACodes\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-20T20:45:22.7860882+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
