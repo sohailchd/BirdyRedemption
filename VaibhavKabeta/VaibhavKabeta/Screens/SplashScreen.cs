@@ -98,7 +98,7 @@ namespace VaibhavKabeta.Screens
         }
         public void Update(GameTime gt) 
         {
-            if(Game1.gt.TotalGameTime.TotalSeconds > 50)
+            if(Game1.gt.TotalGameTime.TotalSeconds > 5)
             {
                 GameStateManager.setGameState(GameStates._menuScreen);
             }

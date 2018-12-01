@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\vaibhavKabeta.xnb</Output>
-      <Time>2015-03-13T20:14:43.0344892+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\vaibhavKabeta.xnb</Output>
+      <Time>2018-12-01T18:02:33.8764137-05:00</Time>
     </Item>
     <Item>
       <Source>fuddu.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu.xnb</Output>
-      <Time>2015-03-13T20:14:42.0464742+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu.xnb</Output>
+      <Time>2018-12-01T18:02:33.8122009-05:00</Time>
     </Item>
     <Item>
       <Source>enemy.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\enemy.xnb</Output>
-      <Time>2015-03-13T20:14:42.0264365+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2018-12-01T18:02:33.8089906-05:00</Time>
     </Item>
     <Item>
       <Source>fires.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fires.xnb</Output>
-      <Time>2015-03-13T20:14:42.0314358+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fires.xnb</Output>
+      <Time>2018-12-01T18:02:33.8100316-05:00</Time>
     </Item>
     <Item>
       <Source>BirdyRedemp.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\BirdyRedemp.xnb</Output>
-      <Time>2015-03-13T20:14:41.7804424+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\BirdyRedemp.xnb</Output>
+      <Time>2018-12-01T18:02:33.7739314-05:00</Time>
     </Item>
     <Item>
       <Source>birdyRedemp2.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\birdyRedemp2.xnb</Output>
-      <Time>2015-03-13T20:14:41.8244746+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\birdyRedemp2.xnb</Output>
+      <Time>2018-12-01T18:02:33.7972814-05:00</Time>
     </Item>
     <Item>
       <Source>StudioName.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\StudioName.xnb</Output>
-      <Time>2015-03-13T20:14:42.7285017+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\StudioName.xnb</Output>
+      <Time>2018-12-01T18:02:33.7803422-05:00</Time>
     </Item>
     <Item>
       <Source>BirdyRedempNew.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\BirdyRedempNew.xnb</Output>
-      <Time>2015-03-13T20:14:42.0074183+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\BirdyRedempNew.xnb</Output>
+      <Time>2018-12-01T18:02:33.7748424-05:00</Time>
     </Item>
     <Item>
       <Source>StudioName2.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\StudioName2.xnb</Output>
-      <Time>2015-03-13T20:14:42.7345059+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\StudioName2.xnb</Output>
+      <Time>2018-12-01T18:02:33.7815642-05:00</Time>
     </Item>
     <Item>
       <Source>birdyRedemp3.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\birdyRedemp3.xnb</Output>
-      <Time>2015-03-13T20:14:41.9316978+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\birdyRedemp3.xnb</Output>
+      <Time>2018-12-01T18:02:33.8015172-05:00</Time>
     </Item>
     <Item>
       <Source>fuddu2.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu2.xnb</Output>
-      <Time>2015-03-13T20:14:42.1749142+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu2.xnb</Output>
+      <Time>2018-12-01T18:02:33.8184359-05:00</Time>
     </Item>
     <Item>
       <Source>fuddu3.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu3.xnb</Output>
-      <Time>2015-03-13T20:14:42.2813035+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu3.xnb</Output>
+      <Time>2018-12-01T18:02:33.8221453-05:00</Time>
     </Item>
     <Item>
       <Source>birdyRedemp4.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\birdyRedemp4.xnb</Output>
-      <Time>2015-03-13T20:14:42.0034159+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\birdyRedemp4.xnb</Output>
+      <Time>2018-12-01T18:02:33.805292-05:00</Time>
     </Item>
     <Item>
       <Source>scrollerBg.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\scrollerBg.xnb</Output>
-      <Time>2015-03-13T20:14:42.5851348+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\scrollerBg.xnb</Output>
+      <Time>2018-12-01T18:02:33.8739164-05:00</Time>
     </Item>
     <Item>
       <Source>menuSelector.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSelector.xnb</Output>
-      <Time>2015-03-13T20:14:42.3110212+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSelector.xnb</Output>
+      <Time>2018-12-01T18:02:33.8354501-05:00</Time>
     </Item>
     <Item>
       <Source>menuSystem.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem.xnb</Output>
-      <Time>2015-03-13T20:14:42.4410431+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem.xnb</Output>
+      <Time>2018-12-01T18:02:33.8438071-05:00</Time>
     </Item>
     <Item>
       <Source>menuSelector2.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSelector2.xnb</Output>
-      <Time>2015-03-13T20:14:42.3220089+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSelector2.xnb</Output>
+      <Time>2018-12-01T18:02:33.8366566-05:00</Time>
     </Item>
     <Item>
       <Source>menuSelector3.png</Source>
@@ -160,17 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSelector3.xnb</Output>
-      <Time>2015-03-13T20:14:42.333426+05:30</Time>
-    </Item>
-    <Item>
-      <Source>SpriteText.spritefont</Source>
-      <Name>SpriteText</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\SpriteText.xnb</Output>
-      <Time>2015-03-13T20:14:42.7214907+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSelector3.xnb</Output>
+      <Time>2018-12-01T18:02:33.8379448-05:00</Time>
     </Item>
     <Item>
       <Source>menuSystem2.png</Source>
@@ -178,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem2.xnb</Output>
-      <Time>2015-03-13T21:03:27.4864758+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem2.xnb</Output>
+      <Time>2018-12-01T18:02:33.8516953-05:00</Time>
     </Item>
     <Item>
       <Source>menuSystem4.png</Source>
@@ -187,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem4.xnb</Output>
-      <Time>2015-03-13T21:15:43.6385013+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem4.xnb</Output>
+      <Time>2018-12-01T18:02:33.8549827-05:00</Time>
     </Item>
     <Item>
       <Source>menuSystem45.png</Source>
@@ -196,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem45.xnb</Output>
-      <Time>2015-03-14T19:12:54.7731566+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\menuSystem45.xnb</Output>
+      <Time>2018-12-01T18:02:33.8615909-05:00</Time>
     </Item>
     <Item>
       <Source>fuddu4.png</Source>
@@ -205,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu4.xnb</Output>
-      <Time>2015-03-14T19:32:10.4409507+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\fuddu4.xnb</Output>
+      <Time>2018-12-01T18:02:33.8242324-05:00</Time>
     </Item>
     <Item>
       <Source>blackBirdy.png</Source>
@@ -214,8 +205,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\blackBirdy.xnb</Output>
-      <Time>2015-03-13T20:14:41.738413+05:30</Time>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\blackBirdy.xnb</Output>
+      <Time>2018-12-01T18:02:33.8074798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteText.spritefont</Source>
+      <Name>SpriteText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\SpriteText.xnb</Output>
+      <Time>2018-12-01T18:13:46.5889119-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -224,39 +224,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabetaContent\</RootDirectory>
-      <LoggerRootDirectory>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\</LoggerRootDirectory>
-      <IntermediateDirectory>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>F:\WorkSpace\tempSaves\VaibhavKabeta\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabetaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sohai\OneDrive\Desktop\scripts\Apps\BirdyRedemption\VaibhavKabeta\VaibhavKabeta\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-11-27T23:22:04.2399691+05:30</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-12-01T17:47:46.2060773-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

@@ -16,9 +16,9 @@ Content\menuSelector.xnb
 Content\menuSystem.xnb
 Content\menuSelector2.xnb
 Content\menuSelector3.xnb
-Content\SpriteText.xnb
 Content\menuSystem2.xnb
 Content\menuSystem4.xnb
 Content\menuSystem45.xnb
 Content\fuddu4.xnb
 Content\blackBirdy.xnb
+Content\SpriteText.xnb

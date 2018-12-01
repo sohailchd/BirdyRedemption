@@ -13,7 +13,7 @@ namespace VaibhavKabeta.Screens
     public class InGameScreen : IScreenNode
     {
         CharacterEngine cEngine;
-        FireSystem fireSystem;
+        private FireSystem fireSystem;
         BirdEnemyEngine enemyEngine;
         CollisionManager collisionManager;
 
@@ -40,7 +40,10 @@ namespace VaibhavKabeta.Screens
 
         public void Draw(SpriteBatch batch) 
         {
-            HUDHandler.showTextAt("hello World",new Vector2(100,100),Color.Black);
+            HUDHandler.showTextAt("WASD Move, Arrows fire)", new Vector2(100, 80), Color.Black);
+
+            HUDHandler.showTextAt("Press Esc to exit (test)",new Vector2(100,100),Color.Black);
+
             cEngine.DrawCharacter(Game1.spriteBatch);
             enemyEngine.DrawEnemies(Game1.spriteBatch);
         }

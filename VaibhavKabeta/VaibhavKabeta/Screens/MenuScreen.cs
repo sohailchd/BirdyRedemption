@@ -21,13 +21,15 @@ namespace VaibhavKabeta.Screens
 
        public MenuScreen() 
        {
-           _positions = new List<Vector2>();
-           _positions.Add(new Vector2(720 , 250 ));
+#pragma warning disable IDE0028 // Simplify collection initialization
+            _positions = new List<Vector2>();
+#pragma warning restore IDE0028 // Simplify collection initialization
+            _positions.Add(new Vector2(720 , 250 ));
            _positions.Add( new Vector2(400 , 400) );
            _positions.Add(new Vector2(820, 500));
 
            fudduAnimationData = new AnimationEngine.animationData();
-           initAnimationData();
+           InitAnimationData();
            fudduAnmationEngine = new AnimationEngine.AnimationEngine(fudduAnimationData.getData());
        }
         ~MenuScreen(){}
@@ -43,7 +45,7 @@ namespace VaibhavKabeta.Screens
         static _MenuState _currentMenuState = _MenuState._start;
 
 
-        void initAnimationData()
+        void InitAnimationData()
         {
             fudduAnimationData.addData("simpleIdle", new List<Rectangle>() 
             {
